@@ -1,3 +1,7 @@
+###依赖包：
+python3.6
+selenium
+
 # AutoVote
 自动填充表单并提交
 
